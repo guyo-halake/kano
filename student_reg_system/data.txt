@@ -1,0 +1,8 @@
+---STUDENTS---
+456,Guyo,guyo@email
+COURSES:None
+---COURSES---
+0,0,6
+ENROLLED:None
+34,Python Programming,3
+ENROLLED:None
